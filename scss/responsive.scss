@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+@media only screen and (max-width: 1115px) {
+    .cover{
+        padding-left: 10%;
+    }
+} 
+@media only screen and (max-width: 1026px) {
+    .cover{
+        padding-left: 13%;
+    }
+    #about{
+        h2{
+            padding-right: 15%;
+        }
+        .klik{
+            padding-right: 20%;
+        }
+    }
+}
+@media only screen and (max-width: 975px) {
+    .cover{
+    padding-left: 18%;
+    }
+    #about{
+        img{
+            height: 95%;
+            width: 45%;
+        }
+    }
+} 
+@media only screen and (max-width: 891px) {
+    .cover{
+        padding-left: 23%;
+    }
+} 
+@media only screen and (max-width: 891px) {
+    .cover{
+        padding-left: 23%;
+    }
+}
+@media only screen and (max-width: 842px) {
+    .cover{
+        padding-left: 28%;
+        font-size: 90%;
+    }
+}
